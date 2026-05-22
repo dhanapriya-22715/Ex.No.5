@@ -18,6 +18,8 @@ Prompt engineering is the process of designing instructions that help AI models 
 
 # Prompting Techniques
 
+<img width="1400" height="923" alt="image" src="https://github.com/user-attachments/assets/ed249776-406d-4998-90e5-cbdb30cae58c" />
+
 ### 1. Basic Prompt
 
 A simple and direct instruction given to the AI.
