@@ -1,8 +1,8 @@
 
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
-
-
+## DATE: 21-05-2026
+## Reg No: 212224230056
 ## Aim
 
 To test and compare how different prompting pattern models respond to various prompts such as broad or unstructured prompts versus refined prompts across multiple scenarios like Zero-shot prompting, Few-shot prompting, and Chain-of-Thought prompting. The experiment analyzes the quality, accuracy, and depth of the generated responses.
